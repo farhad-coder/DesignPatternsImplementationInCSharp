@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonProject", "SingletonProject\SingletonProject.csproj", "{ADBF10D3-F412-4EB5-96C7-264FDC2206B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Method", "Factory Method\Factory Method.csproj", "{4CA0B186-D589-477E-B15E-3384A7AB9FA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodProject", "Factory Method\FactoryMethodProject.csproj", "{4CA0B186-D589-477E-B15E-3384A7AB9FA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

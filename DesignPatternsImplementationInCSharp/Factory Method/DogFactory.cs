@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Factory_Method
+namespace FactoryMethodProject
 {
     public class DogFactory : AnimalFactory
     {

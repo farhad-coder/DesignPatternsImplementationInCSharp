@@ -1,5 +1,5 @@
 ﻿
-using Factory_Method;
+using FactoryMethodProject;
 
 AnimalFactory dogFactory = new DogFactory();
 IAnimal dog = dogFactory.CreateAnimal();
