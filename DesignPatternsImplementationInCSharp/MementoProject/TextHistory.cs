@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Memento
+namespace MementoProject
 {
     public class TextHistory
     {
@@ -22,4 +22,5 @@ namespace Memento
             return null;
         }
     }
+
 }

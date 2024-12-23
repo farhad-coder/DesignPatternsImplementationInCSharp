@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Memento
+namespace MementoProject
 {
     public class TextEditor
     {
@@ -20,4 +20,5 @@ namespace Memento
             _text = memento.Text;
         }
     }
+
 }

@@ -1,5 +1,5 @@
 ﻿
-using Memento;
+using MementoProject;
 
 TextEditor editor = new TextEditor();
 TextHistory history = new TextHistory();
