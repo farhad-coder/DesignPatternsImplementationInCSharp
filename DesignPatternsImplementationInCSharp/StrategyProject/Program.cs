@@ -8,6 +8,12 @@ SortContext context = new SortContext();
 context.SetSortStrategy(new BubbleSort());
 context.Sort(numbers);
 
+for (int i = 0; i < numbers.Count; i++)
+{
+
+}
+
+
 context.SetSortStrategy(new QuickSort());
 context.Sort(numbers);
 
